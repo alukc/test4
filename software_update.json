@@ -1,16 +1,12 @@
 {
-"PulseSensor":
+"updates":
 	{
-		"LatestVersion":"V1.1",
-		"Url":"https://github.com/alukc/test4/tree/master/InputExcelData_00",
-		"UpdateTime":"2019-03-31",
-      		"ReleaseNote":"\n1.添加检查更新说明，包含版本号，下载链接，更新时间，更新说明.\n2.优化“关于”界面"
+		"windows":
+		{
+			"open-url": "",
+			"latest-version": "1.2.7",
+			"download-url":"https://github.com/alukc/test4/tree/master/InputExcelData_00",
+			"changelog":" this is test"
+		},
 	},
-"RGBContrl":
-	{
-		"LatestVersion":"V1.0",
-		"Url":"https://github.com/alukc/test4/tree/master/InputExcelData_00",
-		"UpdateTime":"2019-03-30",
-       		"ReleaseNote":"版本说明"
-	}
 }
